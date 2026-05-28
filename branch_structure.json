@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "chore/init-soroban-contracts",
+    "fix/monitor-sdk-check-and-webhook-decryption",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "chore/init-soroban-contracts": "main",
+    "fix/monitor-sdk-check-and-webhook-decryption": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "chore/init-soroban-contracts",
+    "fix/monitor-sdk-check-and-webhook-decryption",
+    "origin"
+  ]
+}
